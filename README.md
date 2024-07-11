@@ -122,5 +122,13 @@ This project is open-source and available under the MIT License.
 I would like to thank my mentors, colleagues, and the online health and machine learning communities for their support and resources throughout the development of this project.
 
 ---
-
+![alt text](image.png)
+<br/>
+![alt text](image-1.png)
+<br/>
+![alt text](image-2.png)
+<br/>
+![alt text](image-3.png)
+<br/>
+![alt text](image-4.png)
 This README file provides an overview of the SEHAT project, detailing its contents, features, and how to get started with the application. SEHAT aims to be a catalyst for informed decision-making, promoting proactive health management, and contributing to improved health outcomes.
